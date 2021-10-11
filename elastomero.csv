@@ -1,5 +1,5 @@
-elastomero,,
-"temperatura, °C","deformacion, %","esfuerzo, Mpa"
+elastomero
+"temperatura C ","deformacion_%","esfuerzo-Mpa"
 -40,0,0
 -40,1.01,10.25
 -40,1.68,16.54
